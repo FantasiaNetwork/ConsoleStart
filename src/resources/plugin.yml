@@ -1,0 +1,7 @@
+main: xyz.fantasiamc.console.Console
+name: Console
+author: iMPDevMC
+description: A (useless) plugin that only prints a message when the server starts
+load: POSTWORLD
+website: https://devclient.xyz/
+version: 1
